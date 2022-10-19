@@ -24,6 +24,9 @@ Recuerda que git rm no puede usarse así nomás. Debemos usar uno de los flags p
 
 ## Ramas 
 
+* 
+* 
+* 
 ## opciones de git log
 
 * git log --oneline - Te muestra el id commit y el título del commit.
