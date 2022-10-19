@@ -12,7 +12,7 @@
 ## Volver en el tiempo
 * git reset --soft #Commit : Vuelve a ese commit pero lo que tengamos en staging sigue en staging
 * git reset --hard #Commit : TODO vuelve al estado anterior
-* 'git checkout #Commit' : Me permite ir y ver como era el archivo antes pero no cambia nada a no ser que haga un commit , para devolverme a la version actual utilizo git checkout main
+* 'git checkout #Commit' : Me permite ir y ver como era el archivo antes pero no cambia nada a no ser que haga un commit , para devolverme a la version actual utilizo git checkout master
 
 ### Ayudas extra
 * Para salir de nano o vim en Ubuntu usamos 
