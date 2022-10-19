@@ -24,7 +24,7 @@ Recuerda que git rm no puede usarse así nomás. Debemos usar uno de los flags p
 
 ## Ramas 
 
-* 
+* git merge NombreRamaQuequieroFusionar : Si quiero hacer un merge a main debo hacer el merge desde main
 * 
 * 
 ## opciones de git log
