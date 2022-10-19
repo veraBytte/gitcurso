@@ -6,6 +6,8 @@ body{
 header{
     background-color: grey;
     display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 header :first-child{
     color: burlywood;
