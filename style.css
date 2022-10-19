@@ -3,6 +3,16 @@ body{
     text-align: center;
     font-size: 22px;
 }
+header{
+    background-color: grey;
+    display: flex;
+}
+header :first-child{
+    color: burlywood;
+    display: flex;
+    width: 50%;
+    align-items: flex-start;
+}
 p{
     color: honeydew;
     font-size: 10px;
