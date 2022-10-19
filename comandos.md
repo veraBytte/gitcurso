@@ -27,6 +27,13 @@ Recuerda que git rm no puede usarse así nomás. Debemos usar uno de los flags p
 * git merge NombreRamaQuequieroFusionar : Si quiero hacer un merge a main debo hacer el merge desde main
 * 
 * 
+
+###
+* git tag -a #NombredelTagQueVasAcrear -m "mensaje" #delcommitalquecorrespondeesetag : Asi es como puedo crear un tag
+* git tag : Te muestra la lista de todos los tags
+* git show-ref --tags : Te muestra que tag esta asignado a que commit
+
+
 ## opciones de git log
 
 * git log --oneline - Te muestra el id commit y el título del commit.
