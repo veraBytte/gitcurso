@@ -1,6 +1,7 @@
 ## Lista de comandos 
 * 'git log' : Me muestra la historia de todo mi proyecto
 * 'git log --stat' : Me muestra la historia de todo mi proyecto y que archivos han cambiado
+* 'git diff' : Me muestra estos son los cambios de lo que usted tiene en staging vs lo que usted tiene en el disco duro
 * 'git diff #NumerodelCommit #NumerodelCommit': Me permite hacer una comparacion entre commits
 * 'git show' : Me muestra los cambios que se hicieron en un commit
 * 'git status' : Me muestra que cosas han cambiado en mi proyecto
