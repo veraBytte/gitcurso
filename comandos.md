@@ -32,7 +32,9 @@ Recuerda que git rm no puede usarse así nomás. Debemos usar uno de los flags p
 * git tag -a #NombredelTagQueVasAcrear -m "mensaje" #delcommitalquecorrespondeesetag : Asi es como puedo crear un tag
 * git tag : Te muestra la lista de todos los tags
 * git show-ref --tags : Te muestra que tag esta asignado a que commit
-
+* git push origin --tags : Envia los tags al repositorio remoto
+* git tag -d NombredelTag : Elimino un tag
+* git push origin :refs/ NombreDelTag : Para eliminar un tag en el remoto
 
 ## opciones de git log
 
