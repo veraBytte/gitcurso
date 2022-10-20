@@ -25,8 +25,8 @@ Recuerda que git rm no puede usarse así nomás. Debemos usar uno de los flags p
 ## Ramas 
 
 * git merge NombreRamaQuequieroFusionar : Si quiero hacer un merge a main debo hacer el merge desde main
-* 
-* 
+* git push origin NombreDeLaRama : Envia la rama al remoto
+* git pull origin NombreDeLaRama : Me trae una ram del remoto
 
 ###
 * git tag -a #NombredelTagQueVasAcrear -m "mensaje" #delcommitalquecorrespondeesetag : Asi es como puedo crear un tag
@@ -34,7 +34,7 @@ Recuerda que git rm no puede usarse así nomás. Debemos usar uno de los flags p
 * git show-ref --tags : Te muestra que tag esta asignado a que commit
 * git push origin --tags : Envia los tags al repositorio remoto
 * git tag -d NombredelTag : Elimino un tag
-* git push origin :refs/ NombreDelTag : Para eliminar un tag en el remoto
+* git push origin :refs/tags/NombreTag : Para eliminar un tag en el remoto
 
 ## opciones de git log
 
