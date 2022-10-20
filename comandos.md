@@ -5,6 +5,7 @@
 * 'git diff #NumerodelCommit #NumerodelCommit': Me permite hacer una comparacion entre commits
 * 'git show' : Me muestra los cambios que se hicieron en un commit
 * 'git status' : Me muestra que cosas han cambiado en mi proyecto
+* 'gitmoji -c' : Un mini editor para hacer tus commits mas bonitos y legibles
 
 ## Staging Area
 * git reset HEAD: Este es el comando para sacar archivos del área de staging. No para borrarlos ni nada de eso, solo para que los últimos cambios de estos archivos no se envíen al último commit, a menos que cambiemos de opinión y los incluyamos de nuevo en staging con git add, por supuesto.
