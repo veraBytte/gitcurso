@@ -29,7 +29,7 @@ Recuerda que git rm no puede usarse así nomás. Debemos usar uno de los flags p
 * git push origin NombreDeLaRama : Envia la rama al remoto
 * git pull origin NombreDeLaRama : Me trae una ram del remoto
 
-###
+## Tags
 * git tag -a #NombredelTagQueVasAcrear -m "mensaje" #delcommitalquecorrespondeesetag : Asi es como puedo crear un tag
 * git tag : Te muestra la lista de todos los tags
 * git show-ref --tags : Te muestra que tag esta asignado a que commit
